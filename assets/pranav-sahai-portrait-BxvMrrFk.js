@@ -1,0 +1,1 @@
+var e=``+new URL(`pranav-sahai-portrait-B0AcNqly.webp`,import.meta.url).href;export{e as t};
