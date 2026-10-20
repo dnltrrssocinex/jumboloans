@@ -1,0 +1,1 @@
+import{w as e}from"./index-VC0V_GHl.js";var t=e;export{t as component};

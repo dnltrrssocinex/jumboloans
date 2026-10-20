@@ -1,1 +1,0 @@
-import{T as e}from"./index-CF45cTA9.js";var t=e;export{t as component};
