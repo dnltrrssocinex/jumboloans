@@ -1,1 +1,0 @@
-import{w as e}from"./index-DccR0iol.js";var t=e;export{t as component};
