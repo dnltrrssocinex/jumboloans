@@ -1,0 +1,1 @@
+var e={rating:4.9,count:120},t=`100+`;export{t as n,e as t};

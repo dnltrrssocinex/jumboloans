@@ -1,1 +1,0 @@
-var e={rating:4.9,count:120};export{e as t};
