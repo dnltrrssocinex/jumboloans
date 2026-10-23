@@ -1,1 +1,0 @@
-var e=`/under-contract`;export{e as t};

@@ -1,1 +1,0 @@
-function e(e){return{type:`application/ld+json`,children:JSON.stringify({"@context":`https://schema.org`,"@type":`FAQPage`,mainEntity:e.map(e=>({"@type":`Question`,name:e.question,acceptedAnswer:{"@type":`Answer`,text:e.answer}}))})}}export{e as t};

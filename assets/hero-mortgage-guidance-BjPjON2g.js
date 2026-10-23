@@ -1,1 +1,0 @@
-var e=``+new URL(`hero-mortgage-guidance-B9WVE0vl.webp`,import.meta.url).href;export{e as t};

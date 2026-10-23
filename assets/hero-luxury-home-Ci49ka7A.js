@@ -1,1 +1,0 @@
-var e=``+new URL(`hero-luxury-home-DwC9Omlk.webp`,import.meta.url).href;export{e as t};
